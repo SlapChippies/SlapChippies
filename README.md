@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on not sure yet
-- 📫 How to reach me (don't)
+- 📫 How to reach me (don't yet)
 
 <!---
 SlapChippies/SlapChippies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
