@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SlapChippies
 - 👀 I’m interested in games
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Unity and C#
 - 💞️ I’m looking to collaborate on not sure yet
 - 📫 How to reach me (don't yet)
 
